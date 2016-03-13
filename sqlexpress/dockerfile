@@ -31,7 +31,7 @@
 #     start.ps1
 
 # .NET 3.5 required for SQL Server
-FROM microsoft/dotnet:latest
+FROM microsoft/dotnet:0.0.1-alpha
 
 # maintainer for image metadata
 MAINTAINER Buc Rogers
